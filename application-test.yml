@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: microservicecloud-config-test
+# 请保存为UTF-8格式
